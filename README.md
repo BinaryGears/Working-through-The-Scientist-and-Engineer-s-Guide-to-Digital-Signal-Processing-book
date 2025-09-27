@@ -1,0 +1,1 @@
+This is a place to hold the code I write while working through the book "The Scientist and Engineer's Guide to Digital Signal Processing" as well as the code examples from the book that I port from basic to C++.
